@@ -15,11 +15,6 @@
 4. 블록을 옮길 때, 매치되지 않는다면 제자리로 돌아옴.
 ```
 
-### 프로그램 실행 방법
-- Visual Studio 에 ***Boost.Asio*** 라이브러리 연동
-- `Gomoku Project\Debug` 디렉터리에 있는 `Server.exe` 프로그램 실행
-- `Gomoku Project\Client\bin\Release(or Release)` 디렉터리에 있는 `Client.exe` 프로그램 실행
-
 ### 실행 화면
 
 ![Execution Screenshot](Images/picture.png)
