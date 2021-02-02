@@ -5,6 +5,7 @@
 - Language : C++
 - OS : Microsoft Windows 10
 - IDE : Microsoft Visual Studio 2019 16.8.4
+- Framework : Qt 5.15.0
 
 ### 게임 규칙
 
